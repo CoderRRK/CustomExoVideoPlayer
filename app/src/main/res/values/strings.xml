@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomVideoPlayer</string>
+    <string name="first">http://mirrors.standaloneinstaller.com/video-sample/jellyfish-25-mbps-hd-hevc.mp4</string>
+    <string name="second">http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4</string>
+</resources>
